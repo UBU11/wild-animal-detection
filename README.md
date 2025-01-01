@@ -90,5 +90,3 @@ The trained model has been deployed on Hugging Face for practical use.
 ## Contributing
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or a pull request.
 
-## Author
-- `Lemi Debele`
